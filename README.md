@@ -11,10 +11,9 @@
 
 ### Knowledge and skills
 #### Backend
-- Java
-- Javascript
-- Typescript
-
+- Java - Spring
+- Javascript/Typescript - Node - Express
+  
 #### Data Science
 - Python
 - Pandas, Seaborn
@@ -28,6 +27,7 @@
 - Docker
 - Linux Bash
 - Kubernetes
+- Ansible
 
 #### Monitoring
 - Telegraf + InfluxDB + Grafana
